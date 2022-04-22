@@ -15,5 +15,5 @@
     python3 -m pip install -r requirements.txt
     python3 -m pip install . --force-reinstall
    
-##5. Running the app
+## 5. Running the app
     uwsgi --need-app --ini uwsgi.ini
